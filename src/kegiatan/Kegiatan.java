@@ -17,6 +17,7 @@ public class Kegiatan {
     public static void main(String[] args) {
         System.out.println("halo nama ku tita");
         System.out.println("aku suka olahraga");
+        System.out.println("sekarang dia lagi berusaha untuk lebih baik lagi");
     }
     
 }
