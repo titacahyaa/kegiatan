@@ -19,7 +19,7 @@ public class Kegiatan {
         System.out.println("aku suka olahraga");
         System.out.println("sekarang dia lagi berusaha untuk lebih baik lagi");
          System.out.println("lagi belajar git buat project");
-          System.out.println("lagi belajar git buat project");
+          System.out.println("nanti aku mau workout jam set 5");
     }
     
 }
