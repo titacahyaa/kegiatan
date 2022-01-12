@@ -20,6 +20,7 @@ public class Kegiatan {
         System.out.println("sekarang dia lagi berusaha untuk lebih baik lagi");
          System.out.println("lagi belajar git buat project");
           System.out.println("nanti aku mau workout jam set 5");
+	  System.out.println("Hai aku vania bestie tita");
     }
     
 }
